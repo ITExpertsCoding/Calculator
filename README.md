@@ -5,7 +5,7 @@ To run you must:
 
 1 - Install python and an IDE to run python scripts.
 
-2 - Intall tkinter by running 'pip install tk' in the terminal.
+2 - Install tkinter by running 'pip install tk' in the terminal.
 
 3 - Download calculator.py and logo.png in the same folder.
 
